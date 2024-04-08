@@ -7,4 +7,3 @@ class Account {
         this.password;
     }
 }
-/* let account = new Account(); */
