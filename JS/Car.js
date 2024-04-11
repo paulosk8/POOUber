@@ -4,6 +4,7 @@ class Car {
         this.license = license;
         this.driver = driver;
         this.passenger;
+        this.marca;
     }
     printDataCar = () => {
         console.log(this.driver);
