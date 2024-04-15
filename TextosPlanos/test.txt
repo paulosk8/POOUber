@@ -1,1 +1,2 @@
 Ejemplo texto plano
+New commit for new line
