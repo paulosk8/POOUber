@@ -1,3 +1,5 @@
+import { AccountTS } from "./AccountTS";
+
 class CarTS {
   private id: number;
   private license: string;
@@ -52,3 +54,5 @@ public setDriver(driver: AccountTS): void {
     this.driver = driver;
 }
 }
+
+export { CarTS };

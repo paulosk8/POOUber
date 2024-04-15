@@ -10,3 +10,5 @@ class AccountTS {
         this.document = document;
     }
 }
+
+export { AccountTS }
