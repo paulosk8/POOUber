@@ -12,6 +12,11 @@ class Account {
         this.document = document;
     }
 
+    // Getter para recuperar el valor del atributo [name]
+    public getName(){
+        return this.name;
+    }
+
     void printDataAccount() {
         System.out.println("Nombre: " + name + " Email: " + email);
     }
