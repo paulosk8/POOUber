@@ -1,6 +1,6 @@
 # Curso de Programación Orientada a Objetos: POO
 
-Este repositorio contiene material de aprendizaje y ejemplos prácticos sobre los conceptos fundamentales de la Programación Orientada a Objetos (POO). La POO es un paradigma de programación que se basa en el concepto de objetos, los cuales contienen datos y código que operan sobre esos datos. A continuación, se detallan los cuatro principios básicos de la POO.
+Este es un proyecto hecho con diferentes lenguajes de programación sobre programación orientada a objetos. POO es un paradigma de programación que se basa en el concepto de objetos, los cuales contienen datos y código que operan sobre esos datos. A continuación, se detallan los cuatro principios básicos de la POO.
 
 ### Conceptos básicos
 
