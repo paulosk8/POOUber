@@ -1,3 +1,2 @@
-Ejemplo texto plano
-New commit for new line
-New commit for new line v2
+DB: poo_bdd
+pass: 12345
